@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Todo-AspNet(MVC)/1.0.0": {
+        "runtime": {
+          "Todo-AspNet(MVC).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Todo-AspNet(MVC)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
